@@ -3,7 +3,8 @@
 - 👩‍🎓 I'm have enrolled in IIT Madras 4 years BS Data Science and Applications(online).
 - 👀 I’m interested in Computer Software New Technology, AI and research.
 - 🌱 I’m currently learning Gujarat, India.
-- 📫 You can Contact me on Linkedln.(www.linkedin.com/in/dhrumi-vyas)
+- 📫 You can Contact me on Linkedln.(www.linkedin.com/in/dhrumi-vyas).
+- I have attached Resume in GitHub Repository.
 
 
 <!---
