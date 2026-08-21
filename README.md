@@ -2,7 +2,7 @@
 - 👩‍🎓 I'm currently enrolled in B.Tech in Computer Science 💻 at JG University, Ahmedabad.
 - 👩‍🎓 I'm have enrolled in IIT Madras 4 years BS Data Science and Applications(online).
 - 👀 I’m interested in Computer Software New Technology, AI and research.
-- 🌱 I’m currently livning Gujarat, India.
+- 🌱 I’m currently livining Gujarat, India.
 - 📫 You can Contact me on Linkedln.(www.linkedin.com/in/dhrumi-vyas).
 
 
