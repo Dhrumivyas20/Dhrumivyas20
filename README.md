@@ -1,12 +1,4 @@
-<!-- ============================================================
-     SETUP: fill in the links marked  TODO  (LinkedIn, email, portfolio).
-     Save this file as README.md inside a public repo named exactly
-     like your GitHub username (github.com/<username>/<username>).
-     ============================================================ -->
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:43D987&height=190&section=header&text=Dhrumi%20Vyas&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Computing%20%C2%B7%20Data%20%C2%B7%20Intelligence&descSize=18&descAlignY=60" alt="Dhrumi Vyas banner" />
+<div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:43D987&height=190&section=header&text=Dhrumi%20Vyas&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Computing%20%C2%B7%20Data%20%C2%B7%20Intelligence&descSize=18&descAlignY=60" alt="Dhrumi Vyas banner" /> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=900&color=43D987&center=true&vCenter=true&width=620&lines=B.Tech+CSE+%40+JG+University;BS+Data+Science+%40+IIT+Madras;Machine+Learning+%C2%B7+NLP+%C2%B7+Computer+Vision;Learn.+Explore.+Build." alt="Typing animation" /> </a> <br/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=900&color=43D987&center=true&vCenter=true&width=620&lines=B.Tech+CSE+%40+JG+University;BS+Data+Science+%40+IIT+Madras;Machine+Learning+%C2%B7+NLP+%C2%B7+Computer+Vision;Learn.+Explore.+Build." alt="Typing animation" />
