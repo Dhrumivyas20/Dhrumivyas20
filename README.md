@@ -22,7 +22,7 @@
 
 <br/>
 
-## 👋 About Me
+## About Me
 
 I'm pursuing a dual academic path: **B.Tech in Computer Science & Engineering at JG University** and **BS in Data Science at IIT Madras**.
 
@@ -32,7 +32,7 @@ Beyond coursework, I teach and mentor, and I enjoy breaking complex ideas into s
 
 <br/>
 
-## 🎓 Education
+## Education
 
 | Institution | Programme |
 |:--|:--|
@@ -41,17 +41,27 @@ Beyond coursework, I teach and mentor, and I enjoy breaking complex ideas into s
 
 <br/>
 
-## 🧑‍🏫 Teaching & Mentorship
+## Areas of Exploration
+
+| | |
+|:--|:--|
+| **AI & Intelligent Systems** | **Machine Learning & Deep Learning** |
+| **Natural Language Processing** | **Computer Vision** |
+| **Data Science & Analytics** | **Full-Stack Development** |
+
+<br/>
+
+## Teaching & Mentorship
 
 | Role | Course | Status |
 |:--|:--|:--|
-| Teaching Assistant | Mathematics-1 · `BSMA1001` | 🟢 Current |
+| Teaching Assistant | Mathematics-1 · `BSMA1001` | Current |
 | Teaching Assistant | Machine Learning Foundations · `BSCS2004` | Previous |
 | Project Mentor | Modern Application Development I – Project · `BSCS2003P` | Previous |
 
 <br/>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -83,17 +93,7 @@ Beyond coursework, I teach and mentor, and I enjoy breaking complex ideas into s
 
 <br/>
 
-## 🔭 Areas of Exploration
-
-| | |
-|:--|:--|
-| 🤖 **AI & Intelligent Systems** | 🧠 **Machine Learning & Deep Learning** |
-| 💬 **Natural Language Processing** | 👁️ **Computer Vision** |
-| 📊 **Data Science & Analytics** | 🌐 **Full-Stack Development** |
-
-<br/>
-
-## 💡 Philosophy
+## Philosophy
 
 > I believe learning is most meaningful when theory meets implementation, whether I'm exploring a new ML concept, building an application, or mentoring someone through a difficult topic.
 
