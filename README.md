@@ -41,6 +41,19 @@ Beyond coursework, I teach and mentor, and I enjoy breaking complex ideas into s
 
 <br/>
 
+## Current Focus
+
+- Natural Language Processing & Language Understanding
+- Large Language Models & Transformer Architectures
+- Retrieval-Augmented Generation (RAG) & Semantic Search
+- Fine-Tuning & Evaluation of Language Models
+- Text Classification, Summarization & Information Extraction
+- Conversational AI & Question Answering Systems
+- Multilingual & Low-Resource NLP
+- Vision-Language & Multimodal Learning
+
+<br/>
+
 ## Areas of Exploration
 
 | | |
@@ -105,4 +118,4 @@ Beyond coursework, I teach and mentor, and I enjoy breaking complex ideas into s
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:43D987&height=110&section=footer" alt="footer" />
 
-</div>
+</div
