@@ -14,11 +14,9 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/TODO"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/dhrumi-vyas/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:TODO@example.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-43D987?style=for-the-badge&logo=gmail&logoColor=111827" alt="Email" />
-</a>
-<a href="https://TODO-portfolio.example.com"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+<a href="mailto:dhrumivyas20705@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-43D987?style=for-the-badge&logo=gmail&logoColor=111827" alt="Email" />
 </a>
 
 </div>
