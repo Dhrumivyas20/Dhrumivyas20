@@ -59,9 +59,9 @@ Beyond coursework, I teach and mentor, and I enjoy breaking complex ideas into s
 
 **Machine Learning & Data**
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,keras,sklearn,numpy,pandas,opencv,r,matlab,powerbi&perline=10" alt="ML and data" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,r,matlab&perline=10" alt="ML and data" />
 
-<sub>Also: Hugging Face Transformers · XGBoost · NLTK · spaCy · Seaborn · SciPy · Matplotlib · Plotly · Jupyter · Google Colab · Streamlit · MLflow</sub>
+<sub>Also: Keras · NumPy · Pandas · SciPy · Matplotlib · Seaborn · Plotly · XGBoost · NLTK · spaCy · Hugging Face Transformers · Jupyter · Google Colab · Streamlit · MLflow · Power BI</sub>
 
 **Frameworks & Libraries**
 
