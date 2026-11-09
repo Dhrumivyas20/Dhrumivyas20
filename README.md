@@ -1,3 +1,5 @@
+
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:43D987&height=190&section=header&text=Dhrumi%20Vyas&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Computing%20%C2%B7%20Data%20%C2%B7%20Intelligence&descSize=18&descAlignY=60" alt="Dhrumi Vyas banner" />
@@ -142,19 +144,6 @@ Beyond coursework, I teach and mentor, and I enjoy breaking complex ideas into s
 | 🤖 **AI & Intelligent Systems** | 🧠 **Machine Learning & Deep Learning** |
 | 💬 **Natural Language Processing** | 👁️ **Computer Vision** |
 | 📊 **Data Science & Analytics** | 🌐 **Full-Stack Development** |
-
-<br/>
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&title_color=43D987&icon_color=43D987&text_color=8B949E&hide_border=false&border_color=30363D" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&title_color=43D987&text_color=8B949E&hide_border=false&border_color=30363D" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&ring=43D987&fire=43D987&currStreakLabel=43D987&sideLabels=8B949E&currStreakNum=8B949E&sideNums=8B949E&dates=8B949E&stroke=30363D&hide_border=false&border=30363D" alt="GitHub streak" />
-
-</div>
 
 <br/>
 
